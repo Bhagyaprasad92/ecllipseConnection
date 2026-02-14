@@ -14,9 +14,9 @@ class cseDemoTest {
 		assertEquals(5, res);
 	}
 	
-//	@Test
-//	void test2() {
-//		int res = call.mul(2, 3);
-//		assertEquals(6, res);
-//	}
+	@Test
+	void test2() {
+		int res = call.mul(2, 3);
+		assertEquals(6, res);
+	}
 }
