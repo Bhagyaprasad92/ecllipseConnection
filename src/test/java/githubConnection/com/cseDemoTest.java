@@ -17,6 +17,6 @@ class cseDemoTest {
 	@Test
 	void test2() {
 		int res = call.mul(2, 3);
-		assertEquals(5, res);
+		assertEquals(6, res);
 	}
 }
